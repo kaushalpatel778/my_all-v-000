@@ -10,5 +10,3 @@ def my_all?(collection)
 end
 
 my_all?([3,4,9]) {|i| i < 2}
-
- 
